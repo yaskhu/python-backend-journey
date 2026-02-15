@@ -1,0 +1,11 @@
+id,name,age,department,salary,experience_years
+1,Meary,22,Backend,30000,1
+2,John,25,Frontend,40000,3
+3,Alice,28,Data Science,65000,5
+4,Rahul,24,Backend,35000,2
+5,Sneha,30,DevOps,70000,6
+6,David,27,Frontend,45000,4
+7,Meera,26,Backend,50000,3
+8,Arjun,29,Data Science,80000,7
+9,Priya,23,Backend,32000,1
+10,Daniel,31,DevOps,90000,8

@@ -1,0 +1,11 @@
+Backend development is the engine of modern applications.
+Every request from a client reaches the server for processing.
+Python is widely used for backend development because it is simple and powerful.
+
+FastAPI and Django are popular frameworks for building APIs.
+REST APIs follow principles like statelessness and resource-based URLs.
+Understanding HTTP methods is essential for every backend developer.
+
+Logging helps track system behavior and debug errors.
+File handling is important for reading configurations and processing data.
+CSV files are commonly used for exporting reports and analytics.
